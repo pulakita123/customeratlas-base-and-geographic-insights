@@ -1,4 +1,4 @@
-# Project Report: Customer Analytics Dashboard
+# CustomerAtlas: Customer Base & Geographic Insights — Project Report
 
 ## 1. Introduction
 For this project, I used Excel to explore a customer dataset and build a dashboard around customer growth, tenure and distribution. I wanted the report to answer more useful questions than simply showing how many records were in a file.
