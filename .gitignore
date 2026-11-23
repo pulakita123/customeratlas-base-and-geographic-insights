@@ -1,0 +1,17 @@
+# Operating system
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Excel temporary / lock files
+~$*.xlsx
+~$*.xlsm
+
+# Editors
+.vscode/
+.idea/
+
+# Temporary files
+*.tmp
+*.bak
+*.log
