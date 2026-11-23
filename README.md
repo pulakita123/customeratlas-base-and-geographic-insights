@@ -1,4 +1,4 @@
-# Customer Analytics Dashboard | Excel
+# CustomerAtlas: Customer Base & Geographic Insights | Excel
 
 An Excel-based customer analytics project focused on understanding customer growth, tenure and the distribution of a customer base across countries and companies.
 
