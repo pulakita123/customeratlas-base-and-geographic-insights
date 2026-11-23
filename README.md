@@ -57,7 +57,7 @@ The project notes describe customer attributes such as country, company, subscri
 6. **Build the dashboard:** bring the key measures and breakdowns into one view, with slicers for interactive filtering.
 7. **Interpret the results:** use the patterns to identify areas that may warrant deeper customer or market analysis.
 
-More detail is available in [Methodology & Data Quality](docs/METHODOLOGY.md).
+More detail is available in [Methodology & Data Quality](docs/METHODOLOGY.md) and the [Project Report](docs/PROJECT_REPORT.md).
 
 ## 5. Dashboard and KPIs
 
